@@ -4,7 +4,7 @@
 Here are some ideas to get you started:
 
 <!-- - 🔭 I’m currently working on ... -->
-- 🌱 Estou estudando MYSQL 
+- 🌱 Estou estudando DOCKER 
 - 💬 Me pergunte sobre JavaScript
 - 📫 Como entrar em contato comigo: E-mail: andresena9653@gmail.com
 - 😄 Pronomes: Ele / Dele
