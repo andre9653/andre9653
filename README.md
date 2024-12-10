@@ -1,14 +1,9 @@
 ### Olá!! Eu sou o André 👋
 
-
-Here are some ideas to get you started:
-
 <!-- - 🔭 I’m currently working on ... -->
-- 🌱 Estou estudando Python
-- 🔧 JS, ECS6, React, Redux, Contex API, MYSQL, MongoDb, Sequelize, Node js, Arquitetura MSC, Socket e mais.
+- 🔧 AWS, JS, TypeScript, React, NextJS, Redux, Contex API, Styled-Components, MYSQL, MongoDb, Sequelize, Nodejs, NestJS e mais...
 - 💬 Me pergunte sobre JavaScript
 - 📫 Como entrar em contato comigo: E-mail: andresena9653@gmail.com
-- 😄 Pronomes: Ele / Dele
 
 
 
