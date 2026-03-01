@@ -2,13 +2,9 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=7C3AED&center=true&vCenter=true&width=500&lines=Desenvolvedor+Full+Stack+%F0%9F%9A%80;React+%7C+NestJS+%7C+GCP;Apaixonado+por+tecnologia+e+boas+pr%C3%A1ticas" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=7C3AED&center=true&vCenter=true&width=500&lines=Desenvolvedor+Full+Stack+%F0%9F%9A%80;React+%7C+NestJS+%7C+GCP;Apaixonado+por+tecnologia" alt="Typing SVG" />
 
 <br/><br/>
-
-[![Profile Views](https://komarev.com/ghpvc/?username=andre9653&color=7c3aed&style=for-the-badge&label=VISITAS+AO+PERFIL)](https://github.com/andre9653)
-
-<br/>
 
 <a href="https://www.linkedin.com/in/andre-sena" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -61,11 +57,8 @@ Sou um desenvolvedor apaixonado por tecnologia, sempre em busca de novos desafio
 ## 📊 Métricas do GitHub
 
 <div align="center">
-
-> ✅ Inclui contribuições em **repositórios privados**
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=andre9653&show_icons=true&count_private=true&include_all_commits=true&locale=pt-br&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andre9653&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&count_private=true" alt="Top Languages" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=andre9653&show_icons=true&count_private=true&include_all_commits=true&locale=pt-br&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="GitHub Stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andre9653&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" alt="Top Languages" />
 
 <br/>
 
@@ -79,7 +72,7 @@ Sou um desenvolvedor apaixonado por tecnologia, sempre em busca de novos desafio
 
 <div align="center">
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=andre9653&theme=tokyonight&no-frame=true&column=7&margin-w=8&margin-h=8)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophy](https://github-profile-trophy.vercel.app/?username=andre9653&theme=tokyonight&no-frame=true&column=6&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
