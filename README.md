@@ -48,8 +48,8 @@ Sou um desenvolvedor apaixonado por tecnologia, sempre em busca de novos desafio
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=andre9653&show_icons=true&locale=en" alt="GitHub Stats" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andre9653&layout=compact&langs_count=7" alt="Top Languages" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=andre9653&show_icons=true&locale=en" alt="GitHub Stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andre9653&layout=compact&langs_count=7" alt="Top Languages" />
 
 <br/>
 
@@ -78,9 +78,5 @@ Sou um desenvolvedor apaixonado por tecnologia, sempre em busca de novos desafio
 ### 🐍 Contribuições
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/andre9653/andre9653/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/andre9653/andre9653/output/github-contribution-grid-snake.svg">
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/andre9653/andre9653/output/github-contribution-grid-snake.svg">
-  </picture>
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/andre9653/andre9653/output/github-contribution-grid-snake.svg">
 </div>
