@@ -1,10 +1,20 @@
+<div align="center">
+
 # 👋 Olá! Eu sou o André Sena
 
-## 🚀 Desenvolvedor Full Stack
+### 🚀 Desenvolvedor Full Stack
+
+![Profile Views](https://komarev.com/ghpvc/?username=andre9653&color=blue&style=for-the-badge)
+
+</div>
 
 Sou um desenvolvedor apaixonado por tecnologia, sempre em busca de novos desafios e aprendizado contínuo. Atualmente focado em desenvolvimento web com tecnologias modernas.
 
+---
+
 ### 🛠️ Tecnologias e Ferramentas
+
+<div align="center">
 
 **Backend & Cloud:**
 
@@ -22,19 +32,32 @@ Sou um desenvolvedor apaixonado por tecnologia, sempre em busca de novos desafio
 
 ![TypeORM](https://img.shields.io/badge/TypeORM-000000?style=for-the-badge&logo=typeorm&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white) ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white) ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-### 📊 Estatísticas do GitHub
-
-<div align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=andre9653&show_icons=true&locale=en" alt="andre9653" />
-
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=andre9653&" alt="andre9653" />
 </div>
+
+---
 
 ### 🎯 Atualmente
 
 - 🔭 Trabalhando em projetos full-stack com React, NestJs e GCP
 - 🌱 Aprendendo novas tecnologias e melhores práticas
 - 🚀 Focado em desenvolvimento de aplicações escaláveis
+
+---
+
+### 📊 Estatísticas do GitHub
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=andre9653&show_icons=true&locale=en" alt="GitHub Stats" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andre9653&layout=compact&langs_count=7" alt="Top Languages" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=andre9653" alt="GitHub Streak" />
+
+</div>
+
+---
 
 ### 📫 Como me encontrar
 
@@ -50,11 +73,14 @@ Sou um desenvolvedor apaixonado por tecnologia, sempre em busca de novos desafio
   </a>
 </div>
 
+---
+
 ### 🐍 Contribuições
 
 <div align="center">
-  <img src="https://github.com/andre9653/andre9653/blob/output/github-contribution-grid-snake.svg" alt="Snake animation">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/andre9653/andre9653/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/andre9653/andre9653/output/github-contribution-grid-snake.svg">
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/andre9653/andre9653/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
-
----
-
